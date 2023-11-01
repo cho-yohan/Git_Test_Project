@@ -10,6 +10,8 @@ int main()
     std::cout << "PullReqeust branch changed\n";
 
     std::cout << "Github Clone changed\n";
+
+    std::cout << "Github Clone changed\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
