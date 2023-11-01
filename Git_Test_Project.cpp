@@ -11,7 +11,7 @@ int main()
 
     std::cout << "Github Clone changed\n";
 
-    std::cout << "Github Clone changed\n";
+    std::cout << "Clone\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
