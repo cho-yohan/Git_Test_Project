@@ -12,6 +12,8 @@ int main()
     std::cout << "Hello New branch\n";
 
     std::cout << "プルしてから作業します";
+
+    std::cout << "Github Clone change\n;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
