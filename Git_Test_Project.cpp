@@ -13,7 +13,7 @@ int main()
 
     std::cout << "プルしてから作業します";
 
-    std::cout << "Github Clone change\n;
+    std::cout << "Github Clone changed\n;
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
